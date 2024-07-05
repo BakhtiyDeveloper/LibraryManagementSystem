@@ -4,6 +4,8 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        Library library = new Library();
+
         string yesOrNo;
         do 
         {
